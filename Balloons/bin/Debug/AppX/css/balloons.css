@@ -1,0 +1,67 @@
+﻿@font-face {
+    font-family: 'orange juice';
+    src: url('/fonts/orange juice 2.0.ttf');
+}
+
+#txtScore {
+    font-family: 'orange juice';
+    font-size: 50px;
+    color: #ffd800;
+    text-align: left;
+    margin-left: 10px;
+}
+
+#txtPlayerName {
+    font-family: 'orange juice';
+    font-size: 50px;
+    color: #ffd800;
+    float:left;
+    margin-right:20px;
+    
+}
+
+#txtLevel {
+    font-family: 'orange juice';
+    font-size: 50px;
+    color: #ffd800;
+    position:absolute;
+    top: 0;
+}
+
+#divPlayer {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    text-align:right;
+}
+
+#imgPlayer {
+    float:left;
+    margin-right:10px;
+    background-size: contain;
+    width:100px;
+    height: 70px;
+
+}
+
+#divRoot {
+    position: absolute; 
+    top: 0; 
+    right: 0; 
+    text-align:right;
+}
+
+#imgMenu {
+    position:absolute;
+    max-width: 555px; 
+    max-height: 118px; 
+    top: 120px;
+    z-index: 100;
+}
+
+#btnStart {
+    position:absolute;
+    width: 400px;
+    height: 225px;
+    z-index: 100;
+}

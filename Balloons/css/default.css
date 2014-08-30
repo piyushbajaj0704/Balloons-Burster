@@ -1,0 +1,40 @@
+﻿body {
+    background-size: cover;
+}
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+
+@media screen and (-ms-view-state: snapped) {
+    #imgMenu {
+        -ms-transform: translate(0px, 0px) rotate(0deg) scale(0.50);
+    }
+    
+    #btnStart {
+        -ms-transform: translate(0px, 0px) rotate(0deg) scale(0.60);
+    }
+    
+    #imgPlayer {
+        opacity: 0;
+    }
+
+    #txtLevel {
+        -ms-transform: translate(-120px, 0px) rotate(0deg) scale(0.30);
+    }
+
+    #txtPlayerName {
+        -ms-transform: translate(110px, 0px) rotate(0deg) scale(0.30);
+    }
+
+    #txtScore {
+        -ms-transform: translate(0px, 0px) rotate(0deg) scale(0.30);
+    }
+
+
+}
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

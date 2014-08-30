@@ -1,0 +1,150 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>PIYUSH-PC</Machine>
+    <WindowsUser>Piyush</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>27465PiyushBajaj.BalloonsBurster</PackageIdentityName>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\css\balloons.css">
+      <PackagePath>css\balloons.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\default.html">
+      <PackagePath>default.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\fonts\orange juice 2.0.ttf">
+      <PackagePath>fonts\orange juice 2.0.ttf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\fonts\ReadMe.txt">
+      <PackagePath>fonts\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\2012-10-06_SM-Beach-Sunset-183.jpg">
+      <PackagePath>images\2012-10-06_SM-Beach-Sunset-183.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\3840x2160.jpg">
+      <PackagePath>images\3840x2160.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\blue-sky-landscape-wallpaper.jpg">
+      <PackagePath>images\blue-sky-landscape-wallpaper.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\blue_sky_and_green_grass-wide.jpg">
+      <PackagePath>images\blue_sky_and_green_grass-wide.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\storelogo.jpg">
+      <PackagePath>images\storelogo.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\sunset_sky.jpg">
+      <PackagePath>images\sunset_sky.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\accept.png">
+      <PackagePath>images\accept.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\BadgeLogo.scale-180.png">
+      <PackagePath>images\BadgeLogo.scale-180.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\balloon-black.png">
+      <PackagePath>images\balloon-black.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\balloon-blue.png">
+      <PackagePath>images\balloon-blue.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\balloon-green.png">
+      <PackagePath>images\balloon-green.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\balloon-orange.png">
+      <PackagePath>images\balloon-orange.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\balloon-purple.png">
+      <PackagePath>images\balloon-purple.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\balloon-red.png">
+      <PackagePath>images\balloon-red.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\BalloonsLogo.png">
+      <PackagePath>images\BalloonsLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\BalloonsTitle.png">
+      <PackagePath>images\BalloonsTitle.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\explosion.png">
+      <PackagePath>images\explosion.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\logo.png">
+      <PackagePath>images\logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\smalllogo.scale-180.png">
+      <PackagePath>images\smalllogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\SplashLogo.scale-180.png">
+      <PackagePath>images\SplashLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\splashscreen.png">
+      <PackagePath>images\splashscreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\Start.png">
+      <PackagePath>images\Start.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\storelogo.scale-180.png">
+      <PackagePath>images\storelogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\js\balloons.js">
+      <PackagePath>js\balloons.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\js\sound.js">
+      <PackagePath>js\sound.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\js\utils.js">
+      <PackagePath>js\utils.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\sounds\newlevel.wav">
+      <PackagePath>sounds\newlevel.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\sounds\pop.wav">
+      <PackagePath>sounds\pop.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\sounds\pops.wav">
+      <PackagePath>sounds\pops.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\sounds\theme.wav">
+      <PackagePath>sounds\theme.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\sounds\victory.wav">
+      <PackagePath>sounds\victory.wav</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Piyush\Documents\Visual Studio 2013\Projects\Balloons\Balloons\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+      <MoreInfo></MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
